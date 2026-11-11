@@ -1,0 +1,11 @@
+
+{
+  "name": "nodejs-cicd",
+  "version": "1.0.0",
+  "description": "Node.js CI CD Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  }
+}
